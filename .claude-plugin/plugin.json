@@ -1,0 +1,8 @@
+{
+  "name": "touched-only",
+  "version": "0.1.0",
+  "description": "Stops `git add -A` and `commit -a` from sweeping in files Claude never touched, and hands Claude the exact paths to stage instead.",
+  "author": { "name": "Krisna Santosa" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
