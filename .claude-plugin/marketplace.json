@@ -1,0 +1,6 @@
+{
+  "name": "touched-only",
+  "description": "Keeps Claude's commits to the files Claude actually edited.",
+  "owner": { "name": "Krisna Santosa" },
+  "plugins": [{ "name": "touched-only", "source": "./" }]
+}
